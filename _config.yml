@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Immutable
 header-img: img/home-bg.png
 email: emily.jirles@gmail.com
 copyright_name: Jirles
 description: > # this means to ignore newlines until "baseurl:"
-  
+  tenacity, curiosity, drive - some things should never change
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Jirles
