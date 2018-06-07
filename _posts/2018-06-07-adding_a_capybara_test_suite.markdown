@@ -1,16 +1,14 @@
 ---
 layout: post
 title:      "Adding a Capybara test suite"
-date:       2018-06-07 21:55:47 +0000
+date:       2018-06-07 17:55:48 -0400
 permalink:  adding_a_capybara_test_suite
 ---
 
 
 Going into the Sinatra section of Flatiron School's curriculum, I had decided I wanted to write a test suite for my final project. Up to that point, everything I had learned or read about Test Driven Development (TDD) had given the impression that it was a best practice I should be utilizing. Plus, I knew the company I worked for was a big fan, so I decided come project time, I'd get my feet wet and build out an entire test suite. 
 
-Several days later, I'm glad I did. I've emerged from the other side with a better understanding of Capybara, a passing test suite, and minimal emotional scarring. 
-
-![BOOOOOOM](https://gph.is/2HsgASR)
+Several days later, I'm glad I did. I've emerged from the other side with a better understanding of Capybara, a passing test suite, and minimal emotional scarring.
 
 
 Overall, it was pretty simple and while writing out the tests added more time, it was worth it for the experience. That being said, test writing would have been easier if I had a better idea of what I was doing when I started. I was pretty much winging it, basing my tests off of what I had seen in the spec files in Flatiron's Learn IDE.  On the one hand, hands-on practice and stepping outside of your comfort zone to complete a set goal is perhaps the best way to master a subject. On the other hand, I ended up making a crucial  mistake that required that I refactor my entire test suite (up to that point). So before I start listing the what I learned writing out my own Capybara test suite... 
