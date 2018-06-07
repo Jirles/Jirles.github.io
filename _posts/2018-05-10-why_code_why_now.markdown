@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why Code? Why now?"
-date:       2018-05-10 20:19:09 +0000
+date:       2018-05-10 16:19:10 -0400
 permalink:  why_code_why_now
 ---
 
@@ -13,7 +13,7 @@ permalink:  why_code_why_now
  I've had many faces: visa coordinator in an immigration office, support officer for a public affairs team, executive assistant for a Chief Strategy Officer, junior intelligence analyst in an analytical unit.
 
 
- And like many career changers, I'm betting on programming to  break the cycle of unfilling positions and deadends. That doesn't necessarily mean I intend to settle down once I've landed my first job as a software developer -- no, I find stagnation abhorrent -- but it programming will provide a path, a basic set of tools, to start my next evolution. 
+ And like many career changers, I'm betting on programming to  break the cycle of unfilling positions and deadends. That doesn't necessarily mean I intend to settle down once I've landed my first job as a software developer -- no, I find stagnation abhorrent -- but I believe programming will provide a path, a basic set of tools, to start my next evolution. 
  
  
  That, my desire for constant growth, stimulation, learning, essentially answers the first part of this inaugural post's title - Why Code? In short, because programming to me means possibiity. 
@@ -28,7 +28,7 @@ permalink:  why_code_why_now
 
 
  
- All this talk of possibility and change may seem at odds with the title of this blog, but for all my interest in evolution and knowledge, for all the disparate jobs I've held in the past, that core curiosity and desire to learn desire is unchanging. You could even say it's ...immutable (_gasp_).
+ All this talk of possibility and change may seem at odds with the title of this blog, but for all my interest in evolution and knowledge, for all the disparate jobs I've held in the past, that core curiosity and desire to learn is unchanging. You could even say it's ...immutable (_gasp_).
  
  
  
